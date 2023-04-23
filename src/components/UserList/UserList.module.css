@@ -1,7 +1,11 @@
 .cardList {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 48px;
-    padding: 30px 20px;
-
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  padding: 30px 20px;
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
 }

@@ -2,7 +2,7 @@ import React from 'react';
 import { useEffect, useState } from 'react';
 import { getUsers } from 'services/api';
 import { UserCard } from 'components/UserCard/UserCard';
-import css from './UserList.module.css'
+import css from './UserList.module.css';
 
 export const UserList = () => {
   const [users, setUsers] = useState([]);
@@ -19,11 +19,13 @@ export const UserList = () => {
     fetchUsers();
   }, []);
 
+
   return (
     <ul className={css.cardList}>
       {users.map(({ id, user, tweets, followers, avatar }) => (
         <UserCard
           key={id}
+          id={id}
           user={user}
           tweets={tweets}
           followers={followers}
