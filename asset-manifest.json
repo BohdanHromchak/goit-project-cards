@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/goit-project-cards/static/css/main.7acaea2f.css",
-    "main.js": "/goit-project-cards/static/js/main.07d3183d.js",
+    "main.css": "/goit-project-cards/static/css/main.f546bcda.css",
+    "main.js": "/goit-project-cards/static/js/main.26615a3f.js",
     "index.html": "/goit-project-cards/index.html",
-    "main.7acaea2f.css.map": "/goit-project-cards/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-project-cards/static/js/main.07d3183d.js.map"
+    "main.f546bcda.css.map": "/goit-project-cards/static/css/main.f546bcda.css.map",
+    "main.26615a3f.js.map": "/goit-project-cards/static/js/main.26615a3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.f546bcda.css",
+    "static/js/main.26615a3f.js"
   ]
 }
