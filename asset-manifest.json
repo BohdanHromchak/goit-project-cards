@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-project-cards/static/css/main.f546bcda.css",
-    "main.js": "/goit-project-cards/static/js/main.26615a3f.js",
+    "main.css": "/goit-project-cards/static/css/main.4b3ce603.css",
+    "main.js": "/goit-project-cards/static/js/main.78f91776.js",
+    "static/media/cardImage.png": "/goit-project-cards/static/media/cardImage.b1653cd34a1cf70f2134.png",
+    "static/media/goitLogo.svg": "/goit-project-cards/static/media/goitLogo.e917114d7945c04c85a8946a331d28b6.svg",
     "index.html": "/goit-project-cards/index.html",
-    "main.f546bcda.css.map": "/goit-project-cards/static/css/main.f546bcda.css.map",
-    "main.26615a3f.js.map": "/goit-project-cards/static/js/main.26615a3f.js.map"
+    "main.4b3ce603.css.map": "/goit-project-cards/static/css/main.4b3ce603.css.map",
+    "main.78f91776.js.map": "/goit-project-cards/static/js/main.78f91776.js.map"
   },
   "entrypoints": [
-    "static/css/main.f546bcda.css",
-    "static/js/main.26615a3f.js"
+    "static/css/main.4b3ce603.css",
+    "static/js/main.78f91776.js"
   ]
 }
