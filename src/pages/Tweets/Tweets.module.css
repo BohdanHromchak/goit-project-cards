@@ -10,6 +10,9 @@
   text-transform: uppercase;
   line-height: 22px;
   color: #373737;
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
 
   transition-property: color;
   transition-duration: 250ms;

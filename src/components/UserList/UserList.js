@@ -42,7 +42,9 @@ export const UserList = () => {
       </ul>
 
       {visibleUsers < users.length && (
-        <button onClick={handleLoadMore} className={css.loadMoreBtn}>Load more</button>
+        <button onClick={handleLoadMore} className={css.loadMoreBtn}>
+          Load more
+        </button>
       )}
     </React.Fragment>
   );

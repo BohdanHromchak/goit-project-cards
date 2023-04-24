@@ -8,6 +8,6 @@ export async function getUsers() {
 }
 
 export async function updateUserFollowers(id, newFollower) {
-  const response = await axios.put(`/users/${id}`, {followers: newFollower});
+  const response = await axios.put(`/users/${id}`, { followers: newFollower });
   return response.data;
 }

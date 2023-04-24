@@ -6,3 +6,4 @@
 - Handling GET and PUT requests with [Axious](https://axios-http.com/docs/intro).
 - Managing state with useState and useEffect React Hooks.
 - Using localStorage to persist data.
+- Handling routes with [React Router](https://reactrouter.com/en/main).

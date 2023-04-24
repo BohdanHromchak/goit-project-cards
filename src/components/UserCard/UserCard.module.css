@@ -75,6 +75,11 @@
   margin-right: auto;
   font-family: 'Montserrat';
   font-weight: 600;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.followBtn:hover {
+  transform: scale(1.05);
 }
 .followingBtn {
   width: 196px;
@@ -96,4 +101,9 @@
   margin-right: auto;
   font-family: 'Montserrat';
   font-weight: 600;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.followingBtn:hover {
+  transform: scale(1.05);
 }
