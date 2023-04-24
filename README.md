@@ -1,3 +1,6 @@
+# React Fitness Application
+![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+
 # React homework template
 
 Этот проект был создан при помощи
