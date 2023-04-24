@@ -1,5 +1,5 @@
-# React Fitness Application
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+# React Cards Application
+![React Cards Application](https://textbook.edu.goit.global/lms-career-homework/uk/img/image-1.jpg)
 
 # React homework template
 
