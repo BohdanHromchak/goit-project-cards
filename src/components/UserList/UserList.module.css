@@ -9,3 +9,24 @@
   margin-left: auto;
   margin-right: auto;
 }
+.loadMoreBtn {
+  width: 200px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 25px;
+  gap: 6px;
+  background: #d9bdf6;
+  box-shadow: 0px 3.43693px 3.43693px rgba(0, 0, 0, 0.25);
+  border-radius: 10.3108px;
+  text-transform: uppercase;
+  color: #373737;
+  font-size: 17px;
+  line-height: 22px;
+margin-bottom: 26px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Montserrat';
+  font-weight: 600;
+}
