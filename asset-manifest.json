@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/goit-project-cards/static/css/main.11d4d33a.css",
-    "main.js": "/goit-project-cards/static/js/main.19d804c8.js",
+    "main.css": "/goit-project-cards/static/css/main.7593e5b2.css",
+    "main.js": "/goit-project-cards/static/js/main.d207ef5c.js",
     "static/media/cardImage.png": "/goit-project-cards/static/media/cardImage.b1653cd34a1cf70f2134.png",
+    "static/media/welcome.avif": "/goit-project-cards/static/media/welcome.3b5defb64bce9f9c7406.avif",
     "static/media/goitLogo.svg": "/goit-project-cards/static/media/goitLogo.e917114d7945c04c85a8946a331d28b6.svg",
     "index.html": "/goit-project-cards/index.html",
-    "main.11d4d33a.css.map": "/goit-project-cards/static/css/main.11d4d33a.css.map",
-    "main.19d804c8.js.map": "/goit-project-cards/static/js/main.19d804c8.js.map"
+    "main.7593e5b2.css.map": "/goit-project-cards/static/css/main.7593e5b2.css.map",
+    "main.d207ef5c.js.map": "/goit-project-cards/static/js/main.d207ef5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.11d4d33a.css",
-    "static/js/main.19d804c8.js"
+    "static/css/main.7593e5b2.css",
+    "static/js/main.d207ef5c.js"
   ]
 }
