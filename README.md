@@ -3,7 +3,7 @@
 
 # Features
 - Using [MockAPI](https://mockapi.io/) for a backend server.
-- Item 2
+- Handle GET and PUT request with [Axious](https://axios-http.com/docs/intro)
 - Item 3
 
 Этот проект был создан при помощи
