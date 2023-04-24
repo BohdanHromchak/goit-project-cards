@@ -1,7 +1,10 @@
 # React Cards Application
 ![React Cards Application](https://textbook.edu.goit.global/lms-career-homework/uk/img/image-1.jpg)
 
-# React homework template
+# Features
+- Using [MockAPI](https://mockapi.io/) for a backend server.
+- Item 2
+- Item 3
 
 Этот проект был создан при помощи
 [Create React App](https://github.com/facebook/create-react-app). Для знакомства
