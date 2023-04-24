@@ -1,0 +1,21 @@
+.link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 20px;
+  margin-top: 26px;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: uppercase;
+  line-height: 22px;
+  color: #373737;
+
+  transition-property: color;
+  transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.link:hover {
+  color: #5cd3a8;
+}
