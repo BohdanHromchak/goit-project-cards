@@ -19,7 +19,6 @@ export const UserList = () => {
     fetchUsers();
   }, []);
 
-
   return (
     <ul className={css.cardList}>
       {users.map(({ id, user, tweets, followers, avatar }) => (

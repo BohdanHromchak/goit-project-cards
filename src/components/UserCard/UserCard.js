@@ -11,7 +11,7 @@ export const UserCard = ({ id, tweets, followers, avatar, user }) => {
   const [isfollow, setIsFollow] = useState(
     parsedIsFollow !== null ? parsedIsFollow : false
   );
-  
+
   const [uiFollowers, setUiFollowers] = useState(followers);
 
   const handleFollow = () => {
@@ -33,12 +33,26 @@ export const UserCard = ({ id, tweets, followers, avatar, user }) => {
       <GoitLogo />
       <img src={cardImage} alt="cardImage" className={css.cardImage} />
 
-      <img src={avatar} alt={user} className={css.userImg} />
-      <p className={css.userInfo}>{uiFollowers}</p>
+      <div className={css.avatarLine}>
+        <img src={avatar} alt={user} className={css.userImg} />
+      </div>
+      <div className={css.userInfo}>
+        <p className={css.userInfoItem}>
+          {tweets.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',')} Tweets
+        </p>
+        <p className={css.userInfoItem}>
+          {uiFollowers.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',')}{' '}
+          Followers
+        </p>
+      </div>
       {!isfollow ? (
-        <button onClick={handleFollow}>FOLLOW</button>
+        <button onClick={handleFollow} className={css.followBtn}>
+          Follow
+        </button>
       ) : (
-        <button onClick={handleFollow}>FOLLOWING</button>
+        <button onClick={handleFollow} className={css.followingBtn}>
+          Following
+        </button>
       )}
     </li>
   );
